@@ -1,0 +1,27 @@
+body{
+   font-family:sans-serif ; 
+    
+
+    background-color:blank;
+    } 
+    nav{background-color:black;
+
+border:5px solid black;
+height: 30px;
+padding: 20px;
+}
+header{
+background-color: red;
+
+}
+footer{background-color:orange;
+height:90px;
+}
+nav a{
+text-decoration: none;
+background-color: #33CCCC;
+margin:8px ;
+padding-top:15px ;
+padding-bottom: 15px;
+margin-top: 20px;
+}
